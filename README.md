@@ -2,7 +2,7 @@
 
 Punto de Ventas Consola| David Arriaga twitter.com/alimentadorweb
 
-Software en desarrollo, con tecnologias Opensource, OPENJDK 11
+Software completamente funcional, con tecnologias Opensource, OPENJDK 11
 
 incluye inicialmente: sistema de pedidos de Restaurante, funciona en consola
 Fue construido en Con Maven y Netbeans
